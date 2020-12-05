@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "979874942047",
+    "firebase_url": "https://mktp-service.firebaseio.com",
+    "project_id": "mktp-service",
+    "storage_bucket": "mktp-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979874942047:android:88337a92662d10707d9fea",
+        "android_client_info": {
+          "package_name": "com.falqueto.mktp_service"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979874942047-np4j9uc13kunabpk23hb1v9tk9ccto3r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.falqueto.mktp_service",
+            "certificate_hash": "0763aa444817d9407977f1624849acb7c71722e5"
+          }
+        },
+        {
+          "client_id": "979874942047-de1l8v1nftt995smt229371req2thbms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx3IUkZIV7WYdNxJNP1CaawdcdOlvtJVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979874942047-de1l8v1nftt995smt229371req2thbms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

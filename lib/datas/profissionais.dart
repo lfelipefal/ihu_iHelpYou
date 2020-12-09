@@ -10,6 +10,7 @@ class ProfessionalData{
   String cellphone;
   String specialty;
   String wpp;
+  String wpp_ios;
   String insta;
   String insta_link;
   String map_address;
@@ -28,6 +29,7 @@ class ProfessionalData{
     images = List<String>.from(snapshot.data["images"] as List<dynamic>);
     specialty = snapshot.data["specialty"];
     wpp = snapshot.data["wpp"];
+    wpp_ios = snapshot.data["wpp_ios"];
     insta = snapshot.data["insta"];
     insta_link = snapshot.data["insta_link"];
     map_address = snapshot.data["map_address"];
